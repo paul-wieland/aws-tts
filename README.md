@@ -46,3 +46,9 @@ These changes ensure that the generated MP3 files are uploaded to the correct lo
 - **Node.js** with TypeScript
 - **Amazon Polly** for speech synthesis
 - **AWS S3** for audio storage
+
+## 🚀 Future Work
+
+- [x] Speech synthesis using AWS Polly
+- [x] Voice upload to S3 bucket
+- [ ] Wrap into lambda and combine it with scheduler

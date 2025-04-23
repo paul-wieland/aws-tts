@@ -41,8 +41,6 @@ These changes ensure that the generated MP3 files are uploaded to the correct lo
 
 > **Note:** You must be logged in with the AWS CLI before running this tool.
 
-If you're not already authenticated, you can do so with:
-
 ## 🛠️ Technologies Used
 
 - **Node.js** with TypeScript
